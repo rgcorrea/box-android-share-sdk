@@ -2,7 +2,7 @@
 <resources>
     <color name="box_sharesdk_primary_text">#de000000</color>
     <color name="box_sharesdk_hint">#80000000</color>
-    <color name="box_sharesdk_accent">#00adef</color>
+    <color name="box_sharesdk_accent">#0061D5</color>
     <color name="box_sharesdk_link_text">@color/box_sharesdk_accent</color>
     <color name="box_sharesdk_background">#ffffffff</color>
 
